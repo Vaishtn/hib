@@ -37,6 +37,7 @@ public class Taster {
 		}
 		
 		System.out.println("Enter no of details to get by ID:");
+		
 		int up = sc.nextInt();
 		
 		for(int j=0;j<up;j++) {
